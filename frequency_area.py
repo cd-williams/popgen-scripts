@@ -19,7 +19,7 @@ Compute frequency-area distribution for SNPs in a VCF file.
 Input:
     --vcf       path to input VCF file
     --samples   path to sample metadata CSV (columns: sample_id, longitude, latitude, cohort, ploidy)
-    --out       path to output TSV
+    --out       path to output CSV
     --zarr      path to zarr store (will be created if it doesn't exist)
     --chrom     optional chromosome name to filter to
     --chunk     chunk size for processing (default: 10000)
