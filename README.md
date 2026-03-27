@@ -16,7 +16,7 @@ Arguments:
 
 
 ### frequency_area.py
-Script that takes a polarised biallelic SNP vcf for georeferenced samples and computes the joint frequency-area spectrum as described in [Rehmann et al 2025](https://academic.oup.com/mbe/article/42/6/msaf141/8169206). 
+Script that takes a polarised biallelic SNP vcf for georeferenced samples and computes the joint frequency-area distribution as described in [Rehmann et al 2025](https://academic.oup.com/mbe/article/42/6/msaf141/8169206). 
 
 Arguments:
 - `--vcf` path to input VCF file
