@@ -15,7 +15,7 @@ Arguments:
 - `--thresh` proportion of missing calls to tolerate in species B or C 
 
 
-### freqyency_area.py
+### frequency_area.py
 Script that takes a polarised biallelic SNP vcf for georeferenced samples and computes the joint frequency-area spectrum as described in [Rehmann et al 2025](https://academic.oup.com/mbe/article/42/6/msaf141/8169206). 
 
 Arguments:
